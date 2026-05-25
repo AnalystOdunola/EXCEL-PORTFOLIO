@@ -43,6 +43,9 @@ Data cleaning and transformation were performed using Power Query before dashboa
 
 ## Dashboard Preview
 
+![Chocolate Sales Analysis Dashboard](chocolate-sales-analysis-dashboard.png)
+
+
 
 
 ---
