@@ -51,9 +51,10 @@ The goal was to transform raw transactional data into an interactive dashboard t
 - Power Query
 - Pivot Charts
 
-## Dashboard
 
-![2010/2011 E-Commerce Sales Analysis Dashboard](E-Commerce Sales.png)
+## Dashboard Preview
+
+![2010/2011 E-Commerce Sales Analysis Dashboard](Dashboard.png)
 
 ## Author
 
