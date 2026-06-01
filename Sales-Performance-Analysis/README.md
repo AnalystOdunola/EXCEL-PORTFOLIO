@@ -1,7 +1,6 @@
 # 📊 Sales Performance Analysis Dashboard
 
 
-
 ## Overview
 
 This project analyzes sales performance across products, regions, sales representatives, and sales channels using Microsoft Excel. The dashboard provides insights into revenue generation, profitability, customer activity, and cost performance to support business decision-making.
